@@ -1,0 +1,8 @@
+Giai tich 1,Bui Xuan Dieu,Math,M1
+Giai tich 2,Bui Xuan Dieu,Math,M1
+Giai tich 3,Bui Xuan Dieu,Math,M3
+Dien tu so,Hoang Manh Thang,Electronic,E1
+Ky thuat lap trinh C,Nguyen Trung Truc,IT,I1
+Vat ly 1,Luong Duyen Binh,Physic,P1
+Vat ly 2,Luong Duyen Binh,Physic,P2
+Vat ly 3,Luong Duyen Binh,Physic,P3
